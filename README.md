@@ -28,4 +28,4 @@ Chirag Jangid
 
 ## Document
 
-See the PDF in this repository for the complete conceptual paper.
+[📄 Read / Download the Complete PDF](./Higher_Dimensional_Observer_Hypothesis_Chirag_Jangid.pdf)
